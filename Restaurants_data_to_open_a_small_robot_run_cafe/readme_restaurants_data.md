@@ -1,4 +1,4 @@
-- **Analysis_on_restaurants_data_to_open_a_small_robot_run_cafe_in_Los_Angeles**
+### Analysis_on_restaurants_data_to_open_a_small_robot_run_cafe_in_Los_Angeles
 
   * [Project on Restaurants data](https://github.com/Saumik-Barua/DA_Bio_Projects/blob/main/Restaurants_data_to_open_a_small_robot_run_cafe/Analysis_on_restaurants_data_to_open_a_small_robot_run_cafe_in_Los_Angeles.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C0ZBuhbFkPaDw1v9T7mdcZeJWMJ1dPUV?usp=sharing)

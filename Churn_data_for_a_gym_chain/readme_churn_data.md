@@ -1,4 +1,4 @@
-- **Analysis_on_churn_data_for a gym_chain**
+### Analysis_on_churn_data_for a gym_chain
 
   * [Project on churn data for a Gym chain](https://github.com/Saumik-Barua/DA_Bio_Projects/blob/main/Churn_data_for_a_gym_chain/Analysis_on_churn_data_for%20a%20gym_chain.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UmYz7dR52YZaYc7ga7YTKLE2IljEPHiK?usp=sharing)

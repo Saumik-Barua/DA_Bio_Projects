@@ -1,4 +1,4 @@
-- **Research_on_Sales_of_Video_Games_for_an_online_store**
+### Research_on_Sales_of_Video_Games_for_an_online_store
 
   * [Project on Sales of Video Games](https://github.com/Saumik-Barua/DA_Bio_Projects/blob/main/Sales_of_video_games_for_an_online_store/Research_on_Sales_of_Video_Games_for_an_online_store.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14YRgPlkqFh9F4Ub9wGMYJf6cvlFryvNd?usp=sharing)

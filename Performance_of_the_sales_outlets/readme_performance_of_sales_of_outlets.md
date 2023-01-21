@@ -1,4 +1,4 @@
-- **Analysis_on_the_performance_of_the_sales_outlets**
+### Analysis_on_the_performance_of_the_sales_outlets
 
   * [Retail: Assess Sales Outlets' Performance](https://github.com/Saumik-Barua/DA_Bio_Projects/blob/main/Performance_of_the_sales_outlets/Analysis_on_the_performance_of_the_sales_outlets.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IG7f1rpzXveoiOkBBA0i3Dx_dQy2748r?usp=sharing)

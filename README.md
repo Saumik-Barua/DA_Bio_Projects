@@ -17,6 +17,5 @@ In this repository, the following projects can be found:
 	+ [Research_on_Sales_of_Video_Games_for_an_online_store](Sales_of_video_games_for_an_online_store/readme_sales_of_video_games.md)
 
 
-Thank you.
 
 
